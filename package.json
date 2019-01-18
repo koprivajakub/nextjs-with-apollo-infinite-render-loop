@@ -1,0 +1,40 @@
+{
+  "name": "example-render-loop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "dev": "next ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:koprivajakub/nextjs-with-apollo-infinite-render-loop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/koprivajakub/nextjs-with-apollo-infinite-render-loop",
+  "dependencies": {
+    "@babel/cli": "^7.1.5",
+    "@babel/core": "^7.2.2",
+    "@types/next": "^7.0.6",
+    "@types/node": "^10.12.12",
+    "@types/nprogress": "^0.0.29",
+    "@types/prop-types": "^15.5.8",
+    "@types/react": "^16.7.17",
+    "@zeit/next-sass": "^1.0.1",
+    "@zeit/next-typescript": "^1.1.1",
+    "apollo-boost": "^0.1.19",
+    "apollo-client": "^2.4.5",
+    "babel-plugin-module-resolver": "^3.1.2",
+    "express": "^4.16.4",
+    "graphql": "^14.1.1",
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^7.0.2",
+    "node-sass": "^4.11.0",
+    "nprogress": "^0.2.0",
+    "react": "^16.6.0",
+    "react-apollo": "^2.3.3",
+    "react-dom": "^16.7.0",
+    "typescript": "^3.2.1"
+  }
+}

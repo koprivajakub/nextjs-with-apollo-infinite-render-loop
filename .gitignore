@@ -1,0 +1,10 @@
+# dev files
+.idea/
+
+# build files
+.next/
+
+# npm, yarn
+yarn-error.log
+package-lock.json
+node_modules
